@@ -1,7 +1,7 @@
 # PIZZA PROJECT
 
 ## Project Overview
-This data analysis aims to provide insights into the business performance of the Pizza Industry using Key Performance indicators and charts to solve the business problem.
+This data analysis aims to provide insights into the business performance of a Pizza Company using Key Performance indicators and charts to solve the business problem.
 
 ## Data Source
 --https://youtu.be/lrl0vz-p-yc?si=Z8Q-E_llWf7CI6wL- Data Tutorial
